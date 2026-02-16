@@ -1,9 +1,9 @@
-# About Me:
-  Hi, I'm **Francisco Figueiredo**<br>
-  IT Student at **IFPB Itaporanga** (Afternoon)<br>
-  Currently in the **3rd year**, dedicating my studies to understanding **Software Fundamentals** and the **Base of Computing**.
+# 💫 About Me:
+👋 Hi, I'm **Francisco Figueiredo**<br>
+🎓 IT Student at **IFPB Itaporanga** (Afternoon)<br>
+⚡ Currently in the **3rd year**, dedicating my studies to understanding **Software Fundamentals** and the **Base of Computing**.
 
-### What I'm studying:
+### 🔭 What I'm studying:
 * **Java:** Focus on Object-Oriented Programming, memory allocation, and data structures.
 * **HTML:** Understanding web structure and interface building.
 * **SQL:** Data manipulation and integration with relational databases.
