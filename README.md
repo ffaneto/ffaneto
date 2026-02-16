@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm **Francisco Figueiredo**<br>
-🎓 IT Student at **IFPB Itaporanga** (Afternoon)<br>
+🎓 IT Student at **IFPB Itaporanga** <br>
 ⚡ Currently in the **3rd year**, dedicating my studies to understanding **Software Fundamentals** and the **Base of Computing**.
 
 ### 🔭 What I'm studying:
