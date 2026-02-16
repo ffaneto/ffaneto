@@ -1,44 +1,18 @@
-<h1 align="center">Francisco Figueiredo </h1>
+# 💫 About Me:
+👋 Hi, I'm **Francisco Figueiredo**<br>
+🎓 IT Student at **IFPB Itaporanga** (Afternoon)<br>
+⚡ Currently in the **3rd year**, dedicating my studies to understanding **Software Fundamentals** and the **Base of Computing**.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ffaneto&label=Profile%20Views&color=0e75b6&style=flat" alt="ffaneto" />
-</p>
+### 🔭 What I'm studying:
+* **Java:** Focus on Object-Oriented Programming, memory allocation, and data structures.
+* **HTML:** Understanding web structure and interface building.
+* **SQL:** Data manipulation and integration with relational databases.
 
-<p align="center">
- 🎓 <b>Estudante de Informática no IFPB Itaporanga (Vespertino)</b>
-</p>
-
-<p align="center">
-  Atualmente estou no 3º ano e dedico meus estudos a compreender os fundamentos do desenvolvimento de software e a base da computação.
-</p>
-
----
-
-### 💻 O que estou estudando por fora:
-
-* **Java:** Foco em Orientação a Objetos, alocação de memória e estruturas de dados.
-* **HTML:** Compreensão da estrutura web e construção de interfaces.
-* **SQL:** Manipulação de dados e integração com bancos relacionais.
+## 🌐 Socials:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:misteryshadbr@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asstgod)
+  
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
-### 🛠 Tecnologias
-
-<div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</div>
-
----
-
-### 📬 Contato
-
-<div align="center">
-  <a href="mailto:misteryshadbr@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://instagram.com/asstgod" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-</div>
+[![](https://visitcount.itsvg.in/api?id=ffaneto&icon=0&color=1)](https://visitcount.itsvg.in)
