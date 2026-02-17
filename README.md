@@ -12,7 +12,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:misteryshadbr@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asstgod)
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=coffeescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
+  <img src="https://gradgen.boris.sh/badge/-/Java?icon=coffeescript&label=&gradient=ED8B00,FFD000" alt="Java" />
+  <img src="https://gradgen.boris.sh/badge/-/HTML5?icon=html5&label=&gradient=E34F26,FF8860" alt="HTML5" />
+  <img src="https://gradgen.boris.sh/badge/-/MySQL?icon=mysql&label=&gradient=4479A1,99DDFF" alt="MySQL" />
+</div>
 
 ---
 <div align="center">
