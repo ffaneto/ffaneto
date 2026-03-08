@@ -9,10 +9,10 @@
 * **HTML:** Understanding web structure and interface building.
 * **SQL:** Data manipulation and integration with relational databases.
 
-## 🌐 You can reach me
+## You can reach me:
 [![Gmail](https://img.shields.io/badge/Gmail-000000?logo=gmail&logoColor=white)](mailto:misteryshadbr@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-000000?logo=instagram&logoColor=white)](https://instagram.com/asstgod)
 
-# 💻 Tech Stack:
+# Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
