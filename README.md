@@ -4,7 +4,7 @@
 
    IT Student at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/1200px-Logotipo_IFET.svg.png" height="15" style="vertical-align:middle;"/> **IFPB Campus Itaporanga**<br>
 
-   Currently in the **3rd year**, dedicating my studies to understanding **Software Fundamentals** and the **Base of Computing**.
+   Currently in the **3rd year**
 
 ### What I'm studying:
 * **Java:** Focus on Object-Oriented Programming, memory allocation, and data structures.
