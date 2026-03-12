@@ -12,7 +12,7 @@
 * **SQL:** Data manipulation and integration with relational databases.
 
 ## You can reach me:
-[![Gmail](https://img.shields.io/badge/Gmail-000000?logo=gmail&logoColor=white)](mailto:misteryshadbr@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-000000?logo=instagram&logoColor=white)](https://instagram.com/asstgod)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?logo=gmail&logoColor=white)](mailto:misteryshadbr@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-000000?logo=instagram&logoColor=white)](https://instagram.com/ffaneto__)
 
 # Tech Stack:
 <div align="left">
