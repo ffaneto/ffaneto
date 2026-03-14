@@ -5,7 +5,7 @@ Currently in my **3rd year**
 
 <br>
 
-### 🤝 You can reach me:
+### You can reach me:
 <a href="mailto:misteryshadbr@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="45">
 </a>
@@ -17,7 +17,7 @@ Currently in my **3rd year**
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" title="HTML5" />
   <img width="10" />
@@ -36,7 +36,7 @@ Currently in my **3rd year**
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <div align="center">
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=ffaneto&show_icons=true&hide_border=true&bg_color=0e1117&title_color=8aa0c8&icon_color=6b8cba&text_color=a0b4cf&rank_icon=github" />
