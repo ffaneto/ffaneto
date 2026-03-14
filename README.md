@@ -12,7 +12,7 @@ Currently in my **3rd year**
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30">
 </a> <br>
 <a href="https://instagram.com/ffaneto__">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=ffaneto__&logoColor=white" alt="ffaneto__" height="30">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white" alt="ffaneto__" height="30">
 </a>
 
 
