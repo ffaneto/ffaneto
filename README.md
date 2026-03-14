@@ -7,6 +7,7 @@ Currently in my **3rd year**
 
 <b> You can reach me </b> 
 <br>
+<br>
 <a href="mailto:misteryshadbr@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30">
 </a> <br>
