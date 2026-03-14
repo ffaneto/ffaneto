@@ -25,11 +25,11 @@
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=ffaneto&show_icons=true&hide_border=true&bg_color=0e1117&title_color=8aa0c8&icon_color=6b8cba&text_color=a0b4cf&rank_icon=github" />
 <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=ffaneto&hide_border=true&background=0e1117&ring=8aa0c8&fire=6b8cba&currStreakLabel=8aa0c8&sideLabels=a0b4cf&dates=5a6a80&currStreakNum=dce6f5&sideNums=dce6f5" />
 
-</div>
-
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffaneto&layout=compact&hide_border=true&bg_color=0e1117&title_color=8aa0c8&text_color=a0b4cf&langs_count=6" />
+
+</div>
 
 ---
 
