@@ -4,7 +4,7 @@ IT Student at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1
 Currently in my **3rd year**
 
 
-### You can reach me:
+<h2> You can reach me: </h2>
 <a href="mailto:misteryshadbr@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="45">
 </a>
