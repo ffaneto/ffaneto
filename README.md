@@ -7,10 +7,10 @@ Currently in my **3rd year**
 
 <b> You can reach me </b> <br>
 <a href="mailto:misteryshadbr@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="45">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="20">
 </a> <br>
 <a href="https://instagram.com/ffaneto__">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="45">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="ffaneto__" height="20">
 </a>
 
 <br>
