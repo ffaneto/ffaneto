@@ -12,7 +12,7 @@ Currently in my **3rd year**
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="45">
 </a>
 
-<br><br>
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffaneto&layout=compact&hide_border=true&bg_color=0e1117&title_color=8aa0c8&text_color=a0b4cf&langs_count=6" />
 
