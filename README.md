@@ -10,6 +10,8 @@
 
 <br/>
 
+---
+
 <div align="center">
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=ffaneto&show_icons=true&hide_border=true&bg_color=0e1117&title_color=8aa0c8&icon_color=6b8cba&text_color=a0b4cf&rank_icon=github" />
