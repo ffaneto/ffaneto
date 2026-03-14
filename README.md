@@ -1,4 +1,4 @@
-<b>Hi, there 👋 </b>
+<h1><b>Hi, there 👋 </b></h1>
 
 
 My name is Francisco Figuiredo <br>
