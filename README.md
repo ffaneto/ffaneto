@@ -14,7 +14,6 @@ Currently in my **3rd year**
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="ffaneto__" height="30">
 </a>
 
-<br>
 
 <b> Coding status </b>
 
