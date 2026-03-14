@@ -1,6 +1,5 @@
 Hi, there 👋 
 
-<br>
 
 My name is Francisco Figuiredo <br>
 IT Student at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/1200px-Logotipo_IFET.svg.png" height="18" style="vertical-align:middle;"/> **IFPB Campus Itaporanga**<br>
