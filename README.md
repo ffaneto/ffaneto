@@ -5,10 +5,10 @@ My name is Francisco Figuiredo <br>
 IT Student at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/1200px-Logotipo_IFET.svg.png" height="18" style="vertical-align:middle;"/> **IFPB Campus Itaporanga**<br>
 Currently in my **3rd year**
 
-You can reach me
+You can reach me <br>
 <a href="mailto:misteryshadbr@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="45">
-</a>
+</a> <br>
 <a href="https://instagram.com/ffaneto__">
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="45">
 </a>
