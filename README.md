@@ -35,6 +35,6 @@ Currently in my **3rd year**
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ffaneto&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffaneto&layout=compact&hide_border=true&bg_color=0e1117&title_color=8aa0c8&text_color=a0b4cf&langs_count=6" />
+
 </div>
