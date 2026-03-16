@@ -22,3 +22,5 @@ Currently in my 3rd year
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffaneto&layout=compact&hide_border=false&bg_color=0e1117&title_color=8aa0c8&text_color=a0b4cf&langs_count=6&v=2" />
 
 </div>
+
+> *"I am thou, thou art i."* — **Persona**
