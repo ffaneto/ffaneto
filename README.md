@@ -1,5 +1,6 @@
 <h1><b>Hi, there 👋 </b></h1>
 
+> *"I am thou, thou art i."* — **Persona**
 
 My name is Francisco Figuiredo <br>
 IT Student at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/1200px-Logotipo_IFET.svg.png" height="18" style="vertical-align:middle;"/> IFPB Campus Itaporanga<br>
@@ -23,4 +24,4 @@ Currently in my 3rd year
 
 </div>
 
-> *"I am thou, thou art i."* — **Persona**
+
