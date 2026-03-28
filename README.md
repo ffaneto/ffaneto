@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:misteryshadbr@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://gestao-vendas-formatura-ke5o4.ondigitalocean.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-figueiredo-a256263b1/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:misteryshadbr@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://gestao-vendas-formatura-ke5o4.ondigitalocean.app/)
 
 ![Building something](https://img.shields.io/badge/%F0%9F%94%B5%20Building%20something-3b82f6?style=flat-square) [![Building · Sales Management System for School Classes](https://img.shields.io/badge/Building%20%E2%86%92%20Sales%20Management%20System%20for%20School%20Classes-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/ffaneto/gestao-vendas-3-info-vesp-1.0)
 
