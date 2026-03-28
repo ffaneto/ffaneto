@@ -21,7 +21,7 @@ Currently in my 3rd year
 16 years old
 
 ⌖ **Location** &nbsp; Itaporanga, Brazil <br/>
-◎ **Education** &nbsp; Instituto Federal de Educação, Ciência e Tecnologia da Paraíba <br/>
+◎ **Education** &nbsp; Instituto Federal Institute of Education, Science and Technology of Paraíba <br/>
 ⟳ **Learning** &nbsp; Java, Javascript
 
 ---
