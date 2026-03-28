@@ -75,8 +75,6 @@ Currently in my 3rd year
 
 <div align="center">
 
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge">ReadmeForge</a> &nbsp;·&nbsp; <a href="https://github.com/ffaneto">github.com/ffaneto</a></sub>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=120&section=footer" width="100%"/>
 
 </div>
