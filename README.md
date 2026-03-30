@@ -51,9 +51,7 @@ Currently in my 3rd year
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ffaneto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=14400"/> 
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffaneto&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=14400"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ffaneto&theme=telegram-gradient&hide_border=true&border_radius=4&card_width=500&background=54%2C17242469%2C000000)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ffaneto&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
 
