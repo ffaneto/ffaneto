@@ -5,8 +5,6 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:misteryshadbr@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://gestao-vendas-formatura-ke5o4.ondigitalocean.app/)
-
 [![Building · Sales Management System for School Classes](https://img.shields.io/badge/Building%20%E2%86%92%20Sales%20Management%20System%20for%20School%20Classes-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/ffaneto/gestao-vendas-3-info-vesp-1.0)
 
 </div>
