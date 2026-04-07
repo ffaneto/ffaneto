@@ -41,8 +41,8 @@ Currently in my 3rd year
 
 ### Languages
 
-🇧🇷 **Portuguese** &nbsp; ![C2](https://img.shields.io/badge/Portuguese-C2%20Native-brightgreen?style=flat-square) <br/>
-🇬🇧 **English** &nbsp; ![B2](https://img.shields.io/badge/English-B2%20Advanced-success?style=flat-square) <br/>
+🇧🇷 &nbsp; ![C2](https://img.shields.io/badge/Portuguese-C2%20Native-brightgreen?style=flat-square) <br/>
+🇬🇧 &nbsp; ![B2](https://img.shields.io/badge/English-B2%20Advanced-success?style=flat-square) <br/>
 
 ---
 
