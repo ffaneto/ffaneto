@@ -5,8 +5,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:misteryshadbr@gmail.com) 
-[![Building](https://img.shields.io/badge/Status-Building_Sales_System-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/ffaneto/gestao-vendas-3-info-vesp-1.0) <br>
-[![Persona 5 Theme](https://img.shields.io/badge/Persona_5-Portfolio_Theme-D32F2F?style=flat-square&logo=github&logoColor=white)](https://github.com/ffaneto/persona5-website-theme)
+[![Building](https://img.shields.io/badge/Status-Building_Sales_System-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/ffaneto/gestao-vendas-3-info-vesp-1.0) [![Persona 5 Theme](https://img.shields.io/badge/Persona_5-Portfolio_Theme-D32F2F?style=flat-square&logo=github&logoColor=white)](https://github.com/ffaneto/persona5-website-theme)
 
 </div>
 
