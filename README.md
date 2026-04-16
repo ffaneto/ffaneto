@@ -5,13 +5,14 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:misteryshadbr@gmail.com) 
-[![Building](https://img.shields.io/badge/Status-Building_Sales_System-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/ffaneto/gestao-vendas-3-info-vesp-1.0) [![Persona 5 Theme](https://img.shields.io/badge/Persona_5-Portfolio_Theme-D32F2F?style=flat-square&logo=github&logoColor=white)](https://github.com/ffaneto/persona5-website-theme)
+[![Building](https://img.shields.io/badge/Status-Building_Sales_System-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/ffaneto/gestao-vendas-3-info-vesp-1.0) 
+[![Persona 5 Theme](https://img.shields.io/badge/Persona_5-Portfolio_Theme-D32F2F?style=flat-square&logo=github&logoColor=white)](https://github.com/ffaneto/persona5-website-theme)
 
 </div>
 
 ### About
 
-I'm a IT student at  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/1200px-Logotipo_IFET.svg.png" height="15" style="vertical-align:middle;"/> (IFPB)
+I'm an IT student at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/1200px-Logotipo_IFET.svg.png" height="15" style="vertical-align:middle;" alt="IFPB Logo"/> (IFPB)
 <br> 
 Currently in my 3rd year
 <br>
@@ -33,7 +34,7 @@ Currently in my 3rd year
 
 <img src="https://skillicons.dev/icons?i=spring,postgres,mysql&theme=dark" alt="Backend & Databases"/>
 
-**DevOps & Cloud**
+**Tools & DevOps**
 
 <img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" alt="DevOps & Cloud"/>
 
@@ -51,9 +52,11 @@ Currently in my 3rd year
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ffaneto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/> 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffaneto&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-(https://streak-stats.demolab.com?user=ffaneto&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ffaneto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" /> 
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffaneto&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages" />
+<a href="https://git.io/streak-stats">
+  <img height="165" src="https://streak-stats.demolab.com?user=ffaneto&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+</a>
 
 </div>
 
