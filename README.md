@@ -36,8 +36,7 @@ Currently in my 3rd year
 
 **Tools & DevOps**
 
-<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark,linux&theme=dark" alt="DevOps & Cloud"/> 
-
+<img src="https://skillicons.dev/icons?i=git,vscode,linux&theme=dark" alt="Tools & DevOps"/>
 ---
 
 ### Languages
