@@ -12,7 +12,7 @@
 
 ### About
 
-I'm an IT student at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/1200px-Logotipo_IFET.svg.png" height="15" style="vertical-align:middle;" alt="IFPB Logo"/> (IFPB)
+I'm an IT student at IFPB
 <br> 
 Currently in my 3rd year
 <br>
