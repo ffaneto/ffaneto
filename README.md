@@ -27,8 +27,7 @@ Currently in my 3rd year
 ### Stack
 
 **Languages**
-
-<img src="https://skillicons.dev/icons?i=python,js,java,html,css&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js&theme=dark" alt="Languages"/>
 
 **Backend & Databases**
 
