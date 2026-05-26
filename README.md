@@ -45,6 +45,9 @@ Currently in my 3rd year
 <br/>
 <img src="https://flagcdn.com/gb.svg" height="20" align="absmiddle" /> &nbsp; ![B2](https://img.shields.io/badge/English-B2%20Advanced-success?style=flat-square) <br/>
 
+---
+<div align = "center">
+
 > *"If I have seen further, it is by standing on the shoulders of giants." - Isaac Newton*
 
 </div>
