@@ -45,26 +45,6 @@ Currently in my 3rd year
 <br/>
 <img src="https://flagcdn.com/gb.svg" height="20" align="absmiddle" /> &nbsp; ![B2](https://img.shields.io/badge/English-B2%20Advanced-success?style=flat-square) <br/>
 
----
-
-### GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ffaneto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffaneto&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=ffaneto&theme=github_dark&hide_border=true" />
-</div>
-
----
-
-### Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ffaneto&theme=github-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-<div align="center">
-
 > *"If I have seen further, it is by standing on the shoulders of giants." - Isaac Newton*
 
 </div>
